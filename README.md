@@ -14,7 +14,9 @@
 
 <h2>Environments Used</h2>
 <ul>
-  <li><b>Windows 10</b> (21H2)</li>
+  <li><b>Windows 10</li>
+  <li><b>Windows 7</li>
+  <li><b>Ubuntu</li>
 </ul>
 
 <h2>Lab Walk-through:</h2>
